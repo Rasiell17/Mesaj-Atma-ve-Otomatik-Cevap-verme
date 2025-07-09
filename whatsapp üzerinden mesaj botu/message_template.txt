@@ -1,0 +1,1 @@
+Merhaba {firma_adi}, bu bir test mesajıdır.

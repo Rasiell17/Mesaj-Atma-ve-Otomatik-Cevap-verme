@@ -1,0 +1,25 @@
+{
+  "default_reply": "Merhaba! Mesajınız alındı. En kısa sürede size dönüş yapacağız.",
+  "keyword_replies": {
+    "fiyat": "Fiyat bilgisi için lütfen detaylı bilgi verin. Size en uygun teklifi hazırlayalım.",
+    "satılık": "Satılık mülklerimiz hakkında bilgi almak için size yardımcı olabilirim. Hangi bölgede aradığınızı belirtir misiniz?",
+    "kiralık": "Kiralık mülklerimiz hakkında bilgi almak için size yardımcı olabilirim. Bütçeniz ve tercih ettiğiniz bölge nedir?",
+    "emlak": "Emlak hizmetlerimiz hakkında detaylı bilgi için size yardımcı olabilirim. Hangi konuda destek istiyorsunuz?",
+    "ev": "Ev arama sürecinizde size yardımcı olabilirim. Hangi özelliklerde ev arıyorsunuz?",
+    "daire": "Daire seçeneklerimiz hakkında bilgi almak için size yardımcı olabilirim. Kaç odalı daire arıyorsunuz?",
+    "villa": "Villa seçeneklerimiz hakkında bilgi almak için size yardımcı olabilirim. Hangi bölgede villa arıyorsunuz?",
+    "arsa": "Arsa seçeneklerimiz hakkında bilgi almak için size yardımcı olabilirim. Hangi amaçla arsa arıyorsunuz?",
+    "işyeri": "İşyeri seçeneklerimiz hakkında bilgi almak için size yardımcı olabilirim. Hangi sektörde faaliyet göstereceksiniz?",
+    "ofis": "Ofis seçeneklerimiz hakkında bilgi almak için size yardımcı olabilirim. Kaç kişilik ofis arıyorsunuz?",
+    "merhaba": "Merhaba! Size nasıl yardımcı olabilirim?",
+    "selam": "Selam! Emlak hizmetlerimiz hakkında bilgi almak ister misiniz?",
+    "teşekkür": "Rica ederim! Başka bir konuda yardıma ihtiyacınız olursa bize yazabilirsiniz.",
+    "görüşme": "Görüşme talebiniz alındı. En kısa sürede size dönüş yapacağız.",
+    "randevu": "Randevu talebiniz alındı. Size uygun zamanları belirtir misiniz?"
+  },
+  "time_based_replies": {
+    "morning": "Günaydın! Size nasıl yardımcı olabilirim?",
+    "evening": "İyi akşamlar! Size nasıl yardımcı olabilirim?",
+    "night": "İyi geceler! Yarın size dönüş yapacağız."
+  }
+} 
